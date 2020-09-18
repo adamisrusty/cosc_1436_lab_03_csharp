@@ -1,0 +1,12 @@
+/Users/adam/RiderProjects/cosc_1436_lab_03_csharp/cosc_1436_lab_03_csharp/bin/Debug/netcoreapp3.1/cosc_1436_lab_03_csharp.deps.json
+/Users/adam/RiderProjects/cosc_1436_lab_03_csharp/cosc_1436_lab_03_csharp/bin/Debug/netcoreapp3.1/cosc_1436_lab_03_csharp.runtimeconfig.json
+/Users/adam/RiderProjects/cosc_1436_lab_03_csharp/cosc_1436_lab_03_csharp/bin/Debug/netcoreapp3.1/cosc_1436_lab_03_csharp.runtimeconfig.dev.json
+/Users/adam/RiderProjects/cosc_1436_lab_03_csharp/cosc_1436_lab_03_csharp/bin/Debug/netcoreapp3.1/cosc_1436_lab_03_csharp.dll
+/Users/adam/RiderProjects/cosc_1436_lab_03_csharp/cosc_1436_lab_03_csharp/bin/Debug/netcoreapp3.1/cosc_1436_lab_03_csharp.pdb
+/Users/adam/RiderProjects/cosc_1436_lab_03_csharp/cosc_1436_lab_03_csharp/obj/Debug/netcoreapp3.1/cosc_1436_lab_03_csharp.csprojAssemblyReference.cache
+/Users/adam/RiderProjects/cosc_1436_lab_03_csharp/cosc_1436_lab_03_csharp/obj/Debug/netcoreapp3.1/cosc_1436_lab_03_csharp.AssemblyInfoInputs.cache
+/Users/adam/RiderProjects/cosc_1436_lab_03_csharp/cosc_1436_lab_03_csharp/obj/Debug/netcoreapp3.1/cosc_1436_lab_03_csharp.AssemblyInfo.cs
+/Users/adam/RiderProjects/cosc_1436_lab_03_csharp/cosc_1436_lab_03_csharp/obj/Debug/netcoreapp3.1/cosc_1436_lab_03_csharp.csproj.CoreCompileInputs.cache
+/Users/adam/RiderProjects/cosc_1436_lab_03_csharp/cosc_1436_lab_03_csharp/obj/Debug/netcoreapp3.1/cosc_1436_lab_03_csharp.dll
+/Users/adam/RiderProjects/cosc_1436_lab_03_csharp/cosc_1436_lab_03_csharp/obj/Debug/netcoreapp3.1/cosc_1436_lab_03_csharp.pdb
+/Users/adam/RiderProjects/cosc_1436_lab_03_csharp/cosc_1436_lab_03_csharp/obj/Debug/netcoreapp3.1/cosc_1436_lab_03_csharp.genruntimeconfig.cache
